@@ -1,0 +1,23 @@
+#grad1{
+    height: 700px;
+    background-color:purple; 
+    background-image: linear-gradient(purple, black);
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;    
+    font-family: "Times New Roman", Times, serif;
+}
+.header__title{
+text-align:right;
+text-transform:uppercase;
+}
+.header__img{
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: right;
+  width: 180px;
+}
+.footer__title{
+  text-align:center;
+}
